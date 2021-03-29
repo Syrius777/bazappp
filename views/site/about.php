@@ -7,10 +7,11 @@ use yii\helpers\Html;
 $this->title = 'About';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<div class="site-about">
+<div class="site-about">re unable to authorize you in GitHub. Sorry for inconvenience, please try again later
     <h1><?= Html::encode($this->title) ?></h1>
 
-    <h2><?= 'hhhhh' ?></h2>
+    <h2><?= 'hhhhh 555' ?></h2>
+    <h2><?= 'hhhhh 555' ?></h2>
 
 
     <p>
